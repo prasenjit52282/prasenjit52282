@@ -1,16 +1,44 @@
-### Hi there 👋
+### Hi there, I am [Prasenjit][website] 👋
 
-<!--
-**prasenjit52282/prasenjit52282** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Connect with me:
+[<img align="left" alt="Prasenjit | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
-Here are some ideas to get you started:
+<br />
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Languages and Tools:
+[<img align="left" alt="Python3" width="26px" src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png" />][python3]
+[<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][html]
+[<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />][css]
+[<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][javascript]
+[<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />][sql]
+[<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />][mysql]
+[<img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />][mongodb]
+[<img align="left" alt="Latex" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/latex/latex.png" />][latex]
+[<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />][git]
+[<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][github]
+[<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />][terminal]
+[<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][code]
+
+<br />
+<br />
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=prasenjit52282&show_icons=true&locale=en&layout=compact" alt="prasenjit52282" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=prasenjit52282&show_icons=true&locale=en" alt="prasenjit52282" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=prasenjit52282&" alt="prasenjit52282" /></p>
+
+[website]: https://www.linkedin.com/in/prasenjit52282/
+[linkedin]: https://www.linkedin.com/in/prasenjit52282/
+[code]: https://code.visualstudio.com/
+[html]: https://developer.mozilla.org/en-US/docs/Glossary/HTML5
+[css]: https://developer.mozilla.org/en-US/docs/Glossary/css
+[javascript]: https://developer.mozilla.org/en-US/docs/Glossary/javascript
+[python3]: https://docs.python.org/3/tutorial
+[sql]: https://en.wikipedia.org/wiki/SQL
+[mysql]: https://www.mysql.com/
+[mongodb]: https://www.mongodb.com/
+[git]: https://git-scm.com/
+[github]: https://github.com/
+[terminal]: https://maker.pro/linux/tutorial/basic-linux-commands-for-beginners#:~:text=To%20open%20the%20terminal%2C%20press,it%2C%20but%20this%20is%20better!
+[latex]: https://www.latex-project.org/
