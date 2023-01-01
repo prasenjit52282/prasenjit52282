@@ -25,11 +25,11 @@
 <br />
 <br />
 
-![Prasenjit's Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=prasenjit52282&show_icons=true&locale=en&layout=compact&theme=transparent)
+![Prasenjit's Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=prasenjit52282&show_icons=true&locale=en&layout=compact&theme=transparent&hide_border=true)
 
-![Prasenjit's GitHub stats](https://github-readme-stats.vercel.app/api?username=prasenjit52282&show_icons=true&locale=en&theme=transparent)
+![Prasenjit's GitHub stats](https://github-readme-stats.vercel.app/api?username=prasenjit52282&show_icons=true&locale=en&theme=transparent&hide_border=true)
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=prasenjit52282&theme=dark&mode=weekly&background=DD272700)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=prasenjit52282&theme=radical&hide_border=true&mode=weekly&background=DD272700&dates=0684DD&stroke=1FD906)](https://git.io/streak-stats)
 
 [website]: https://www.linkedin.com/in/prasenjit52282/
 [linkedin]: https://www.linkedin.com/in/prasenjit52282/
