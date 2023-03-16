@@ -46,4 +46,4 @@
 [github]: https://github.com/
 [terminal]: https://maker.pro/linux/tutorial/basic-linux-commands-for-beginners#:~:text=To%20open%20the%20terminal%2C%20press,it%2C%20but%20this%20is%20better!
 [latex]: https://www.latex-project.org/
-[insta]: https://www.instagram.com/anto_neo_l/
+[insta]: https://www.instagram.com/a__neo_/
