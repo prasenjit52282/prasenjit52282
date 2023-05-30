@@ -5,7 +5,7 @@ I am presently pursuing Ph.D. in the Department of Computer Science and Engineer
 ### Connect with me:
 [<img align="left" alt="Prasenjit | LinkedIn" width="22px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" />][linkedin]
 [<img align="left" alt="Prasenjit | Instagram" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/2048px-Instagram_icon.png" />][insta]
-
+[<img align="left" alt="Prasenjit | Twitter" width="22px" src="https://img.freepik.com/free-icon/twitter_318-674515.jpg" />][twitter]
 
 <br />
 
@@ -49,3 +49,4 @@ I am presently pursuing Ph.D. in the Department of Computer Science and Engineer
 [terminal]: https://maker.pro/linux/tutorial/basic-linux-commands-for-beginners#:~:text=To%20open%20the%20terminal%2C%20press,it%2C%20but%20this%20is%20better!
 [latex]: https://www.latex-project.org/
 [insta]: https://www.instagram.com/a__neo_/
+[twitter]: https://twitter.com/prasenjit52282
