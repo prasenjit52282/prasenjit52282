@@ -33,7 +33,7 @@ I am presently pursuing Ph.D. in the Department of Computer Science and Engineer
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=prasenjit52282&theme=radical&hide_border=true&mode=weekly&background=DD272700&dates=0684DD&stroke=1FD906)](https://git.io/streak-stats)
 
-[website]: https://www.linkedin.com/in/prasenjit52282/
+[website]: https://prasenjit52282.github.io/
 [linkedin]: https://www.linkedin.com/in/prasenjit52282/
 [code]: https://code.visualstudio.com/
 [html]: https://developer.mozilla.org/en-US/docs/Glossary/HTML5
