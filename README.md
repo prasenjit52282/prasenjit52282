@@ -17,7 +17,7 @@ I am presently pursuing Ph.D. in the Department of Computer Science and Engineer
 [<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][javascript]
 [<img align="left" alt="SQL" width="26px" src="https://symbols.getvecta.com/stencil_27/79_sql-database-generic.494ff6320e.png" />][sql]
 [<img align="left" alt="MySQL" width="26px" src="https://pngimg.com/uploads/mysql/mysql_PNG16.png" />][mysql]
-[<img align="left" alt="MongoDB" width="26px" src="https://www.tutorialsteacher.com/Content/images/home/mongodb.svg" />][mongodb]
+[<img align="left" alt="MongoDB" width="26px" src="https://www.svgrepo.com/show/331488/mongodb.svg" />][mongodb]
 [<img align="left" alt="Latex" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/latex/latex.png" />][latex]
 [<img align="left" alt="Git" width="26px" src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" />][git]
 [<img align="left" alt="GitHub" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Github-desktop-logo-symbol.svg/1200px-Github-desktop-logo-symbol.svg.png" />][github]
@@ -30,8 +30,6 @@ I am presently pursuing Ph.D. in the Department of Computer Science and Engineer
 ![Prasenjit's Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=prasenjit52282&show_icons=true&locale=en&layout=compact&theme=transparent&hide_border=true)
 
 ![Prasenjit's GitHub stats](https://github-readme-stats.vercel.app/api?username=prasenjit52282&show_icons=true&locale=en&theme=transparent&hide_border=true)
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=prasenjit52282&theme=radical&hide_border=true&mode=weekly&background=DD272700&dates=0684DD&stroke=1FD906)](https://git.io/streak-stats)
 
 [website]: https://prasenjit52282.github.io/
 [linkedin]: https://www.linkedin.com/in/prasenjit52282/
