@@ -1,6 +1,6 @@
 ### Hi there, I am [Prasenjit][website] 👋
 
-I am presently pursuing Ph.D. in the Department of Computer Science and Engineering at the Indian Institute of Technology Kharagpur, India. I am a member of [UbiNet: Ubiquitous Networked Systems Lab](https://cse.iitkgp.ac.in/resgrp/ubinet/). I work in distributed sensing in indoor environments.
+I work in distributed sensing in indoor environments.
 
 ### Connect with me:
 [<img align="left" alt="Prasenjit | LinkedIn" width="22px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" />][linkedin]
