@@ -27,10 +27,6 @@ I am presently pursuing a Ph.D. in the Department of Computer Science and Engine
 <br />
 <br />
 
-![Prasenjit's Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=prasenjit52282&show_icons=true&locale=en&layout=compact&theme=transparent&hide_border=true)
-
-![Prasenjit's GitHub stats](https://github-readme-stats.vercel.app/api?username=prasenjit52282&show_icons=true&locale=en&theme=transparent&hide_border=true)
-
 [website]: https://prasenjit52282.github.io/
 [linkedin]: https://www.linkedin.com/in/prasenjit52282/
 [code]: https://code.visualstudio.com/
